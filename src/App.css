@@ -21,9 +21,7 @@ header {
 }
 
 .destination-card {
-  background: white;
-  border-radius: 8px;
-  overflow: hidden;
+  background: rgb(203, 239, 110);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -40,13 +38,13 @@ header {
 .destination-info h2 {
   margin: 0;
   font-size: 1.5rem;
-  color: #333;
+  color: #b72121;
 }
 
 .destination-info h3 {
   margin: 0.5rem 0;
   font-size: 1rem;
-  color: #666;
+  color: #684242;
 }
 
 .destination-info p {
